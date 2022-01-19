@@ -3645,3 +3645,80 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.01.19-03.12.46:497][258]OBJ SavePackage: Finished generating thumbnails for package [/Game/PuzzleBP/Blueprints/PuzzlePlayerCharacter]
 [2022.01.19-03.12.46:508][258]LogSavePackage: Moving 'D:/Unity Projects/Game/Saved/PuzzlePlayerCharacter_Auto8B03A85834D6D1F61DADF2B8EB6190A6A.tmp' to 'D:/Unity Projects/Game/Saved/Autosaves/Game/PuzzleBP/Blueprints/PuzzlePlayerCharacter_Auto8.uasset'
 [2022.01.19-03.12.46:508][258]LogFileHelpers: Auto-saving content packages took 0.069
+[2022.01.19-03.13.51:353][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.01.19-03.13.52:950][235]LogSlate: Window 'Save Content' being destroyed
+[2022.01.19-03.13.52:979][235]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PC_MouseControl" FILE="D:/Unity Projects/Game/Content/Blueprints/PC_MouseControl.uasset" SILENT=true
+[2022.01.19-03.13.52:986][235]LogSavePackage: Moving 'D:/Unity Projects/Game/Saved/PC_MouseControlC2A738504D9E05819F6E33BEDBCC71DE.tmp' to 'D:/Unity Projects/Game/Content/Blueprints/PC_MouseControl.uasset'
+[2022.01.19-03.13.52:986][235]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/PuzzlePlayerCharacter" FILE="D:/Unity Projects/Game/Content/PuzzleBP/Blueprints/PuzzlePlayerCharacter.uasset" SILENT=true
+[2022.01.19-03.13.52:997][235]LogSavePackage: Moving 'D:/Unity Projects/Game/Saved/PuzzlePlayerCharacterCC7F8ECE454F91A72C7E7B9382BEA521.tmp' to 'D:/Unity Projects/Game/Content/PuzzleBP/Blueprints/PuzzlePlayerCharacter.uasset'
+[2022.01.19-03.13.52:998][235]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="D:/Unity Projects/Game/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2022.01.19-03.13.53:036][235]LogSavePackage: Moving 'D:/Unity Projects/Game/Saved/ThirdPersonCharacter0000A38644A4E51695EDC1B47E660FCC.tmp' to 'D:/Unity Projects/Game/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.01.19-03.13.53:056][235]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.01.19-03.13.53:065][235]LogSavePackage: Moving 'D:/Unity Projects/Game/Saved/ThirdPersonExampleMapE1DD37494982BE6EB2EB96BD86C21380.tmp' to 'D:/Unity Projects/Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.01.19-03.13.53:075][235]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.038
+[2022.01.19-03.13.53:086][235]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.19-03.13.53:086][235]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.01.19-03.13.53:086][235]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/PC_MouseControl.PC_MouseControl
+[2022.01.19-03.13.53:086][235]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.01.19-03.13.53:087][235]LogContentValidation: Display: Validating Blueprint /Game/PuzzleBP/Blueprints/PuzzlePlayerCharacter.PuzzlePlayerCharacter
+[2022.01.19-03.14.16:320][275]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.01.19-03.14.17:594][275]LogSlate: Window 'Delete Assets' being destroyed
+[2022.01.19-03.14.17:666][275]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.01.19-03.14.17:683][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.01.19-03.14.17:701][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.01.19-03.14.17:717][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.01.19-03.14.17:738][275]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.01.19-03.14.17:755][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.01.19-03.14.20:856][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.01.19-03.14.22:398][821]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.01.19-03.14.22:402][821]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.19-03.14.22:402][821]PIE: New page: PIE session: ThirdPersonExampleMap (2022年1月19日 下午7:14:22)
+[2022.01.19-03.14.22:402][821]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.01.19-03.14.22:408][821]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005845s)
+[2022.01.19-03.14.22:409][821]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.01.19-03.14.22:409][821]LogPlayLevel: PIE: World Init took: (0.000793s)
+[2022.01.19-03.14.22:409][821]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.006716s)
+[2022.01.19-03.14.22:433][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.01.19-03.14.22:435][821]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2022.01.19-03.14.22:435][821]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.19-03.14.22:435][821]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.19-03.14.22:435][821]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.19-03.14.22:435][821]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.19-03.14.22:435][821]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.19-03.14.22:435][821]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.19-03.14.22:435][821]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.19-03.14.22:435][821]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.19-03.14.22:435][821]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.19-03.14.22:435][821]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.19-03.14.22:435][821]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.19-03.14.22:435][821]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.19-03.14.22:437][821]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.19-03.14.22:437][821]LogAudioMixer: Display: 1: FrontRight
+[2022.01.19-03.14.22:445][821]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.01.19-03.14.22:445][821]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.19-03.14.22:445][821]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.19-03.14.22:445][821]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.19-03.14.22:445][821]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.19-03.14.22:445][821]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.19-03.14.22:445][821]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.19-03.14.22:446][821]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.19-03.14.22:446][821]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.19-03.14.22:446][821]LogInit: FAudioDevice initialized.
+[2022.01.19-03.14.22:446][821]LogAudio: Display: Audio Device (ID: 38) registered with world 'ThirdPersonExampleMap'.
+[2022.01.19-03.14.22:500][821]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.19-03.14.22:500][821]LogLoad: Game class is 'BG_MouseControl_C'
+[2022.01.19-03.14.22:501][821]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.01.19-11.14.22
+[2022.01.19-03.14.22:501][821]LogWorld: Bringing up level for play took: 0.000741
+[2022.01.19-03.14.22:501][821]LogOnline: OSS: Creating online subsystem instance for: :Context_82
+[2022.01.19-03.14.22:511][821]PIE: Server logged in
+[2022.01.19-03.14.22:515][821]PIE: Play in editor total start time 0.113 seconds.
+[2022.01.19-03.14.25:498][175]LogSlate: Window 'BossGame Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.01.19-03.14.25:503][175]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.01.19-03.14.25:526][175]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.19-03.14.25:526][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.19-03.14.25:533][175]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.19-03.14.25:543][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.19-03.14.25:561][175]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.19-03.14.25:562][175]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.19-03.14.25:567][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.01.19-03.14.25:604][178]LogPlayLevel: Display: Destroying online subsystem :Context_82
